@@ -2,6 +2,6 @@ hello world
 
 the very basics commands are clear now
 
-joris < 40
+joris < 4 cm
 
 dddd
